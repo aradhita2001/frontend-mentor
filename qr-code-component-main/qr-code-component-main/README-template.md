@@ -12,8 +12,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Links
 
-- Solution URL: [https://your-live-site-url.com]
-- Live Site URL: [https://your-live-site-url.com]
+- Solution URL: [github repo](https://github.com/aradhita2001/frontend-mentor/tree/main/qr-code-component-main/qr-code-component-main)
+- Live Site URL: [view in browser](https://aradhita2001.github.io/frontend-mentor/qr-code-component-main/qr-code-component-main/)
 
 ## Built with
 
@@ -22,6 +22,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Aradhita Dasgupta](https://aradhita2001.github.io)
+- Frontend Mentor - [@aradhita2001](https://www.frontendmentor.io/profile/aradhita2001)
+- Twitter - [@aradhita2001](https://twitter.com/aradhita2001)
