@@ -92,6 +92,11 @@ button {
     border-radius: 5px;
 }
 
+button:hover {
+    transform: scale(1.03);
+    opacity: .8;
+}
+
 .right {
     background-color: hsla(179, 62%, 43%, .5);
     color: #fff;
